@@ -1,0 +1,33 @@
+# 2KWAat
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `2KWAat` |
+| **Total Size** | **2 parts** - **54.64 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Links
+
+| # | File | Link |
+|---|------|------|
+| 1 | `2KWAat.z01` | [Download](https://github.com/sina24-web/sinadownloader/raw/main/downloads/2KWAat/2KWAat.z01) |
+| 2 | `2KWAat.zip` | [Download](https://github.com/sina24-web/sinadownloader/raw/main/downloads/2KWAat/2KWAat.zip) |
+
+---
+
+## How to Extract
+
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `2KWAat.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
